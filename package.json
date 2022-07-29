@@ -1,0 +1,29 @@
+{
+  "name": "nft-preview-card-component-sb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sean-birmingham/nft-preview-card-component-sb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sean-birmingham/nft-preview-card-component-sb/issues"
+  },
+  "homepage": "https://github.com/sean-birmingham/nft-preview-card-component-sb#readme",
+  "dependencies": {
+    "autoprefixer": "^10.4.8",
+    "browser-sync": "^2.27.10",
+    "cssnano": "^5.1.12",
+    "gulp": "^4.0.2",
+    "gulp-postcss": "^9.0.1",
+    "gulp-sass": "^5.1.0",
+    "postcss": "^8.4.14",
+    "sass": "^1.54.0"
+  }
+}
